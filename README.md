@@ -19,9 +19,6 @@ Aplikasi berbasis PHP dan MySQL untuk mencatat pendapatan, pengeluaran, dan lapo
 - Laporan Keuangan 
 - Tampilan Responsif (Bootstrap)
 
-## 🚀 Demo Online
-[https://namasitusmu.000webhostapp.com](https://namasitusmu.000webhostapp.com)
-
 ## 💻 Teknologi
 - PHP 8
 - MySQL
